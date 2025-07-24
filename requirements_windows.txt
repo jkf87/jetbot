@@ -1,0 +1,18 @@
+# 윈도우용 JetBot 시뮬레이션 및 카메라 테스트 시스템
+# 모든 의존성 패키지 목록
+
+# 핵심 패키지
+opencv-contrib-python==4.12.0.88
+numpy==2.2.6
+Pillow==10.2.0
+
+# GUI 및 인터페이스
+tkinter-tooltip==2.1.0
+
+# 추가 이미지 처리 (선택사항)
+scikit-image==0.22.0
+matplotlib==3.8.2
+
+# 개발 도구 (선택사항)
+ipython==8.18.1
+jupyter==1.0.0 
